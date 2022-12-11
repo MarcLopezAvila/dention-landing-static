@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://dention.io</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/about-us</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/contact-us</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/faq</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/features/analytics</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/features/bills</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/features/digital-signature</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/features/estimates</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/features/image-analysis</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/features/patients</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/features/schedule</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/pricing</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/privacy-policy</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
-<url><loc>https://dention.io/terms-of-service</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:07:57.212Z</lastmod></url>
+<url><loc>https://dention.io</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/about-us</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/contact-us</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/faq</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/features/analytics</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/features/bills</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/features/digital-signature</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/features/estimates</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/features/image-analysis</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/features/patients</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/features/schedule</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/pricing</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/privacy-policy</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
+<url><loc>https://dention.io/terms-of-service</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-12-11T17:18:11.647Z</lastmod></url>
 </urlset>
